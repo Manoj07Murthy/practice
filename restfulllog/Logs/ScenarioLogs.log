@@ -1,0 +1,55 @@
+[INFO ] 2024-08-26 12:09:28.830 [main] rest_Api - the method I_enter_the_baseuri starts here
+[INFO ] 2024-08-26 12:09:29.122 [main] rest_Api - the method I_enter_the_baseuri ends here
+[INFO ] 2024-08-26 12:09:29.124 [main] rest_Api - execution of I_assing_resquest_specification method starts here 
+[INFO ] 2024-08-26 12:09:29.244 [main] rest_Api - execution of I_assing_resquest_specification method ends here 
+[INFO ] 2024-08-26 12:09:29.245 [main] rest_Api - execution of I_enter_header method starts here 
+[INFO ] 2024-08-26 12:09:29.295 [main] rest_Api - execution of I_enter_header method ends here 
+[INFO ] 2024-08-26 12:09:29.295 [main] rest_Api - execution of I_enter_enteries method starts here 
+[INFO ] 2024-08-26 12:09:29.406 [main] rest_Api - execution of I_enter_enteries method ends here 
+[INFO ] 2024-08-26 12:09:29.409 [main] rest_Api - execution of I_take_response method starts here 
+[ERROR] 2024-08-26 12:09:30.005 [main] rest_Api - there is an error in I_take_response method
+[INFO ] 2024-08-26 12:09:30.006 [main] rest_Api - execution of I_take_response method ends here 
+[INFO ] 2024-08-26 12:09:30.007 [main] rest_Api - execution of I print response method starts here 
+[ERROR] 2024-08-26 12:09:30.007 [main] rest_Api - there is an error in I print response method
+[INFO ] 2024-08-26 12:09:30.008 [main] rest_Api - execution of I print response method ends here 
+[INFO ] 2024-08-26 12:09:30.009 [main] rest_Api - the method I_take_id_from_table starts here
+[ERROR] 2024-08-26 12:09:30.009 [main] rest_Api - the method I_take_id_from_table has an error
+[INFO ] 2024-08-26 12:09:30.009 [main] rest_Api - the method I_take_id_from_table starts here
+[INFO ] 2024-08-26 12:09:30.010 [main] rest_Api - execution of I print response method starts here 
+[INFO ] 2024-08-26 12:09:30.011 [main] rest_Api - execution of I print response method ends here 
+[INFO ] 2024-08-26 12:09:30.015 [main] rest_Api - execution of I_assing_resquest_specification method starts here 
+[INFO ] 2024-08-26 12:09:30.015 [main] rest_Api - execution of I_assing_resquest_specification method ends here 
+[INFO ] 2024-08-26 12:09:30.016 [main] rest_Api - execution of I_enter_header method starts here 
+[INFO ] 2024-08-26 12:09:30.018 [main] rest_Api - execution of I_enter_header method ends here 
+[INFO ] 2024-08-26 12:09:30.019 [main] rest_Api - execution of I_take_get_response starts here 
+[ERROR] 2024-08-26 12:09:30.041 [main] rest_Api - there is an error in I_take_get_response method
+[INFO ] 2024-08-26 12:09:30.041 [main] rest_Api - execution of I_take_get_response ends here 
+[INFO ] 2024-08-26 12:09:30.042 [main] rest_Api - execution of I print response method starts here 
+[ERROR] 2024-08-26 12:09:30.042 [main] rest_Api - there is an error in I print response method
+[INFO ] 2024-08-26 12:09:30.042 [main] rest_Api - execution of I print response method ends here 
+[INFO ] 2024-08-26 12:09:30.042 [main] rest_Api - execution of I_take_get_response starts here 
+[INFO ] 2024-08-26 12:09:30.042 [main] rest_Api - execution of I_take_get_response ends here 
+[INFO ] 2024-08-26 12:09:30.043 [main] rest_Api - execution of I_assing_resquest_specification method starts here 
+[INFO ] 2024-08-26 12:09:30.043 [main] rest_Api - execution of I_assing_resquest_specification method ends here 
+[INFO ] 2024-08-26 12:09:30.044 [main] rest_Api - execution of I_enter_header method starts here 
+[INFO ] 2024-08-26 12:09:30.044 [main] rest_Api - execution of I_enter_header method ends here 
+[INFO ] 2024-08-26 12:09:30.045 [main] rest_Api - execution of I_enter_put_enteries method starts here 
+[INFO ] 2024-08-26 12:09:30.046 [main] rest_Api - execution of I_enter_enteries method ends here 
+[INFO ] 2024-08-26 12:09:30.048 [main] rest_Api - execution of I_take_response method starts here 
+[ERROR] 2024-08-26 12:09:30.061 [main] rest_Api - there is an error in I_take_response method
+[INFO ] 2024-08-26 12:09:30.062 [main] rest_Api - execution of I_take_response method ends here 
+[INFO ] 2024-08-26 12:09:30.062 [main] rest_Api - execution of I print response method starts here 
+[ERROR] 2024-08-26 12:09:30.063 [main] rest_Api - there is an error in I print response method
+[INFO ] 2024-08-26 12:09:30.063 [main] rest_Api - execution of I print response method ends here 
+[INFO ] 2024-08-26 12:09:30.063 [main] rest_Api - execution of I print response method starts here 
+[INFO ] 2024-08-26 12:09:30.064 [main] rest_Api - execution of I print response method ends here 
+[INFO ] 2024-08-26 12:09:30.064 [main] rest_Api - execution of I_assing_resquest_specification method starts here 
+[INFO ] 2024-08-26 12:09:30.064 [main] rest_Api - execution of I_assing_resquest_specification method ends here 
+[INFO ] 2024-08-26 12:09:30.065 [main] rest_Api - execution of I_enter_header method starts here 
+[INFO ] 2024-08-26 12:09:30.065 [main] rest_Api - execution of I_enter_header method ends here 
+[INFO ] 2024-08-26 12:09:30.066 [main] rest_Api - execution of I_take_response method starts here 
+[ERROR] 2024-08-26 12:09:30.080 [main] rest_Api - there is an error in I_take_response method
+[INFO ] 2024-08-26 12:09:30.080 [main] rest_Api - execution of I_take_response method ends here 
+[INFO ] 2024-08-26 12:09:30.081 [main] rest_Api - execution of I print response method starts here 
+[ERROR] 2024-08-26 12:09:30.081 [main] rest_Api - there is an error in I print response method
+[INFO ] 2024-08-26 12:09:30.081 [main] rest_Api - execution of I print response method ends here 

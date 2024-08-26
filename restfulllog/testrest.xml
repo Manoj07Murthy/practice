@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="restassured">
+<test name="api">
+<classes>
+<class name="company.restfulllog.glue.glue"/>
+</classes>
+</test>
+</suite>
